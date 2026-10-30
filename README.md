@@ -1,5 +1,7 @@
 # mome-map
 
+> **This project has moved to [ashron24/ome-map](https://github.com/ashron24/ome-map)** — live at https://ashron24.github.io/ome-map/. This repository is archived and no longer updated.
+
 An open-source rebuild of the legacy **CAU Outreach Map** (NYC Mayor's Community Affairs Unit, 2015–2018) using only **public** data and **open-source** tools — no authentication, no internal-only layers.
 
 **Live:** https://ashron24.github.io/mome-map/
